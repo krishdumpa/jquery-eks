@@ -14,4 +14,4 @@ Ingress-Controller --> Loadbalancer
 Namespace
 Deployment
 Service
-Ingress --path / host
+Ingress --path / host.....................
